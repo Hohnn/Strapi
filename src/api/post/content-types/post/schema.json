@@ -70,6 +70,9 @@
       ],
       "type": "media",
       "multiple": false
+    },
+    "date": {
+      "type": "date"
     }
   }
 }
